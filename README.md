@@ -1,6 +1,13 @@
 # HackMed-2021---1000-Genomes-Project-
 
 
+Resources for this project:
+
+https://www.internationalgenome.org/data#download
+
+https://docs.opendata.aws/1000genomes/readme.html
+
+
 
 ## Inspiration
 Study the diversity of genes in different populations around the globe.
